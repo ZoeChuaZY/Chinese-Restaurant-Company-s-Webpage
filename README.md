@@ -53,19 +53,25 @@ For example:
 Click on "Learn More" or "ABOUT" at the header to learn more about the company.
 
 For example:
+
 **Brand Name Origin**
+
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/184a2ba2-e94d-4b2d-b773-93c321f0ae69)
 
 **Vision and Mission**
+
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/d686a597-f5a3-470f-bf6e-6e70415034a1)
 
 **Chef**
+
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/f5cb8519-1eeb-42cb-a91f-b7e93621cbb1)
 
 **Timeline**
+
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/832013c9-1e7d-46b4-a56e-18cda1fe401f)
 
 **Recognitions**
+
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/eb9abd15-a4b1-4ffc-9819-bfa2c7aca34d)
 
 
