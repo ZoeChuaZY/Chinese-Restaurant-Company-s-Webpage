@@ -33,7 +33,8 @@ All the category in the header section can be click and you will be directed to 
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/4432ca4a-feb3-4109-a224-43fa45fc5ee1)
 
-You can either click the banner or the "PROMOTION EVENTS" in the header and you will be directed to promotion events pages.
+> [!NOTE]
+> You can either click the banner or the "PROMOTION EVENTS" in the header and you will be directed to promotion events pages.
 
 Sample of promotion event pages:
 
@@ -51,7 +52,8 @@ For example:
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/052f9d65-c443-44a5-9189-b2ad71368738)
 
-Click on "Learn More" or "ABOUT" at the header to learn more about the company.
+> [!NOTE]
+> Click on "Learn More" or "ABOUT" at the header to learn more about the company.
 
 For example:
 
@@ -92,13 +94,16 @@ Sorting function is provided to view the dishes by categories.
 
 ## **f. Contact Us**
 
-- Click on "CONTACT US" at the header and you can easily get in touch with the company.
+> [!NOTE]
+> Click on "CONTACT US" at the header and you can easily get in touch with the company.
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/81c2f3b1-417a-4818-983a-2d1ca1ad5b03)
 
 
 ## **g. Login and Registration**
-- Click on the "People Icon" to go into login and registration page.
+
+> [!NOTE]
+> Click on the "People Icon" to go into the login and registration page.
   
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/4669d30e-8bed-4185-9d7e-6c595c7a18b3)
 
