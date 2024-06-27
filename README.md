@@ -1,4 +1,4 @@
-# Chinese-Restaurant-Company-s-Webpage
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/1467dda3-a9bf-4d65-a8ec-4189d1c0c089)# Chinese-Restaurant-Company-s-Webpage
 1. Download the repository and we will use Wampserver as the localhost in this project.
 2. After launched the Wampserver, open phpmyadmin through Wampserver or you may access through browser (URL: http://localhost/phpmyadmin/)
    
@@ -114,6 +114,21 @@ Sorting function is provided to view the dishes by categories.
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/10f8c7a7-cbbd-45df-b6ee-c18d0db22e82)
 
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/60d1275d-e404-40c7-bdf7-d919ed8d0399)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/2c052eae-b006-46cf-bc7a-67b3ccd511ff)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/2a30d6fa-d883-432f-b984-ab7761dd78df)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/6d0d7512-d73f-4e06-a6b7-f51903166f08)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/79c1f0ba-7b4f-4849-b362-e4c284e31275)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/d71ecda8-b2b5-4fcc-909b-ec4dc1d03592)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/a504ace1-18eb-4cdb-8c4c-6fbf6e90c4ac)
+
+
 ### Customer
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/a295cc0d-b50b-4620-a037-ed1d4a79b028)
@@ -126,5 +141,7 @@ Sorting function is provided to view the dishes by categories.
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/83ff0954-7a81-4165-b4a8-b1d068ec4a37)
 
-![Uploading image.png…]()
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/7e1f817c-3228-4e5f-8b31-1d9eea3bb203)
+
+
 
