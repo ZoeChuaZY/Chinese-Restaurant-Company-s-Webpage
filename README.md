@@ -50,10 +50,41 @@ For example:
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/052f9d65-c443-44a5-9189-b2ad71368738)
 
+Click on "Learn More" or "ABOUT" at the header to learn more about the company.
+
+For example:
+**Brand Name Origin**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/184a2ba2-e94d-4b2d-b773-93c321f0ae69)
+
+**Vision and Mission**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/d686a597-f5a3-470f-bf6e-6e70415034a1)
+
+**Chef**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/f5cb8519-1eeb-42cb-a91f-b7e93621cbb1)
+
+**Timeline**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/832013c9-1e7d-46b4-a56e-18cda1fe401f)
+
+**Recognitions**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/eb9abd15-a4b1-4ffc-9819-bfa2c7aca34d)
+
+
 **d. Top Recommendations**
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/9c0d25cc-69ee-4c94-9693-b02710ad21a3)
 
+You can view our menu by clicking “View Menu” at the home page or "MENU" at the header.
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/b06e81e6-20fb-4202-8726-aff0515ab88a)
+
+Sorting function is provided to view the dishes by categories.
+
 **e. Customer Review**
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/db4d84c0-c62c-4781-9093-a587931b1980)
+
+**f. Contact Us**
+
+Click on "CONTACT US" at the header and you can easily get in touch with the company.
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/81c2f3b1-417a-4818-983a-2d1ca1ad5b03)
