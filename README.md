@@ -104,14 +104,14 @@ Click on "CONTACT US" at the header and you can easily get in touch with the com
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/582861ca-82e1-4ef7-8de5-760b2e657214)
 
 > [!NOTE]
->There are two major roles: Admin and Customer<br>
->Each role will redirect to their respective dashboard
+> - There are two major roles: Admin and Customer<br>
+> - Each role will redirect to their respective dashboard
 
-#_Admin_
+#Admin
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/10f8c7a7-cbbd-45df-b6ee-c18d0db22e82)
 
-#_Customer_
+#Customer
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/a295cc0d-b50b-4620-a037-ed1d4a79b028)
 
