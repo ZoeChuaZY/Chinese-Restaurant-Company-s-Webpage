@@ -118,4 +118,13 @@ Sorting function is provided to view the dishes by categories.
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/a295cc0d-b50b-4620-a037-ed1d4a79b028)
 
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/be89c392-7cb7-4377-af58-e1844f321339)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/27a03e65-c215-41bd-bf7d-2879a321612d)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/67cec101-9327-4d67-b0b2-6cc2295fb207)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/83ff0954-7a81-4165-b4a8-b1d068ec4a37)
+
+![Uploading image.png…]()
 
