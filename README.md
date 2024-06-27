@@ -107,11 +107,11 @@ Click on "CONTACT US" at the header and you can easily get in touch with the com
 > - There are two major roles: Admin and Customer<br>
 > - Each role will redirect to their respective dashboard
 
-#Admin
+## Admin
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/10f8c7a7-cbbd-45df-b6ee-c18d0db22e82)
 
-#Customer
+## Customer
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/a295cc0d-b50b-4620-a037-ed1d4a79b028)
 
