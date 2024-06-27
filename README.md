@@ -10,3 +10,10 @@
 4. After log in to phpmyadmin, import file name "database".
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/0183747d-0c61-479f-94dd-0fbe4caa2463)
 
+5. Next, import "booking", "branches", "feedback", "menu", "orders", "users", "vouchers" which contains the values of table created.
+
+6. Once all the files has been imported,  you need to created a new file name "eatlemou" and move all the file downloaded in the newly created file.
+
+7. Once done, run the index.php in your browser. (URL: http://localhost/eatlemou/)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/e13bce84-9b82-4e41-840b-d493615315fa)
