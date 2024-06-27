@@ -24,11 +24,27 @@ Section in the Homepage:
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/acd65c69-6ded-46b6-b969-e7b140aba3d9)
 
-**b. Promotion Events Banner**
+All the category in the header section can be click and you will be directed to respective pages.
+
+**b. Promotion Events**
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/f8934fc3-ba09-4f70-b60d-0e60b8e96214)
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/4432ca4a-feb3-4109-a224-43fa45fc5ee1)
+
+You can either click the banner or the "PROMOTION EVENTS" in the header and you will be directed to promotion events pages.
+
+Sample of promotion event pages:
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/e30738ba-f05d-413f-b0df-21a47f1abad3)
+
+Click on any promotion events that you interested:
+
+For example:
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/97ef7503-97c4-4a59-b337-4b266eb08fa9)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/1a956f5a-567f-4a29-af7c-75525986a1ce)
 
 **c. About Us**
 
