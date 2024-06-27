@@ -1,4 +1,4 @@
-![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/1467dda3-a9bf-4d65-a8ec-4189d1c0c089)# Chinese-Restaurant-Company-s-Webpage
+# Chinese-Restaurant-Company-s-Webpage
 1. Download the repository and we will use Wampserver as the localhost in this project.
 2. After launched the Wampserver, open phpmyadmin through Wampserver or you may access through browser (URL: http://localhost/phpmyadmin/)
    
