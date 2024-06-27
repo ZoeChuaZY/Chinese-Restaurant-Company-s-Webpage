@@ -15,6 +15,7 @@
 6.
 > [!IMPORTANT]
 > Once all the files has been imported,  you need to created a new file name "eatlemou" and move several files shown in the image below to the newly created file.
+<br>
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/4a30e188-8cbf-45d3-8c00-746bd9f60082)
 
 7. Once done, run the index.php in your browser and you will be directed to the homepage of website. (URL: http://localhost/eatlemou/)
