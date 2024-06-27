@@ -1,2 +1,3 @@
 # Chinese-Restaurant-Company-s-Webpage
-Steps to run EAT LE MOU.CO website: 
+1. Download We will use Wampserver as the localhost in this project.
+2. 
