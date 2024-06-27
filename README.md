@@ -14,6 +14,24 @@
 
 6. Once all the files has been imported,  you need to created a new file name "eatlemou" and move all the file downloaded in the newly created file.
 
-7. Once done, run the index.php in your browser. (URL: http://localhost/eatlemou/)
+7. Once done, run the index.php in your browser and you will be directed to the homepage of website. (URL: http://localhost/eatlemou/)
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/e13bce84-9b82-4e41-840b-d493615315fa)
+
+Section in the Homepage:
+**a. Header**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/acd65c69-6ded-46b6-b969-e7b140aba3d9)
+
+**b. Promotion Events Banner**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/f8934fc3-ba09-4f70-b60d-0e60b8e96214)
+
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/4432ca4a-feb3-4109-a224-43fa45fc5ee1)
+
+**c. About Us**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/052f9d65-c443-44a5-9189-b2ad71368738)
+
+**d. Top Recommendations**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/9c0d25cc-69ee-4c94-9693-b02710ad21a3)
+
+**e. Customer Review**
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/db4d84c0-c62c-4781-9093-a587931b1980)
