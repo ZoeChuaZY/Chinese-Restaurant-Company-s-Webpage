@@ -92,13 +92,15 @@ Sorting function is provided to view the dishes by categories.
 
 ## **f. Contact Us**
 
-Click on "CONTACT US" at the header and you can easily get in touch with the company.
+- Click on "CONTACT US" at the header and you can easily get in touch with the company.
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/81c2f3b1-417a-4818-983a-2d1ca1ad5b03)
 
 
 ## **g. Login and Registration**
-
+- Click on the "People Icon" to go into login and registration.
+![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/4669d30e-8bed-4185-9d7e-6c595c7a18b3)
+<br>
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/36cb98d5-adb1-4a1e-a540-e35a4c7fbcec)
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/582861ca-82e1-4ef7-8de5-760b2e657214)
