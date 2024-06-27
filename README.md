@@ -27,7 +27,7 @@
 
 All the category in the header section can be click and you will be directed to respective pages.
 
-**b. Promotion Events**
+## **b. Promotion Events**
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/f8934fc3-ba09-4f70-b60d-0e60b8e96214)
 
@@ -47,7 +47,7 @@ For example:
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/1a956f5a-567f-4a29-af7c-75525986a1ce)
 
-**c. About Us**
+## **c. About Us**
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/052f9d65-c443-44a5-9189-b2ad71368738)
 
@@ -76,7 +76,7 @@ For example:
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/eb9abd15-a4b1-4ffc-9819-bfa2c7aca34d)
 
 
-**d. Top Recommendations**
+## **d. Top Recommendations**
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/9c0d25cc-69ee-4c94-9693-b02710ad21a3)
 
@@ -86,18 +86,18 @@ You can view our menu by clicking “View Menu” at the home page or "MENU" at 
 
 Sorting function is provided to view the dishes by categories.
 
-**e. Customer Review**
+## **e. Customer Review**
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/db4d84c0-c62c-4781-9093-a587931b1980)
 
-**f. Contact Us**
+## **f. Contact Us**
 
 Click on "CONTACT US" at the header and you can easily get in touch with the company.
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/81c2f3b1-417a-4818-983a-2d1ca1ad5b03)
 
 
-**##g. Login and Registration**
+## **g. Login and Registration**
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/36cb98d5-adb1-4a1e-a540-e35a4c7fbcec)
 
@@ -107,11 +107,11 @@ Click on "CONTACT US" at the header and you can easily get in touch with the com
 > - There are two major roles: Admin and Customer<br>
 > - Each role will redirect to their respective dashboard
 
-## Admin
+### Admin
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/10f8c7a7-cbbd-45df-b6ee-c18d0db22e82)
 
-## Customer
+### Customer
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/a295cc0d-b50b-4620-a037-ed1d4a79b028)
 
