@@ -113,6 +113,7 @@ Sorting function is provided to view the dishes by categories.
 
 > [!NOTE]
 > Click on the "People Icon" to logout.
+
 ![Screenshot 2024-06-27 223940](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/c7316e7e-e081-442d-ba6e-5bba4e6c0155)
 
 > [!NOTE]
