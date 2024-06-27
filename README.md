@@ -112,6 +112,10 @@ Sorting function is provided to view the dishes by categories.
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/582861ca-82e1-4ef7-8de5-760b2e657214)
 
 > [!NOTE]
+> Click on the "People Icon" to logout.
+![Screenshot 2024-06-27 223940](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/167123360/c7316e7e-e081-442d-ba6e-5bba4e6c0155)
+
+> [!NOTE]
 > - There are two major roles: Admin and Customer<br>
 > - Each role will redirect to their respective dashboard
 
