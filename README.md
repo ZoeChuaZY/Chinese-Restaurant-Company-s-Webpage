@@ -19,9 +19,9 @@
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/e13bce84-9b82-4e41-840b-d493615315fa)
 
-Section in the Homepage:
+# Section in the Homepage:
 
-**a. Header**
+## **a. Header**
 
 ![image](https://github.com/ZoeChuaZY/Chinese-Restaurant-Company-s-Webpage/assets/164743060/acd65c69-6ded-46b6-b969-e7b140aba3d9)
 
